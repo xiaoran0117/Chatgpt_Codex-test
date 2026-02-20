@@ -1,0 +1,5 @@
+Module,Group1,Group2,Group3,Item,Group1Key,Group2Key,Group3Key,ItemKey
+"監査ワークベンチ","","","","監査ケース","","","","監査ケース"
+"監査ワークベンチ","設定","","","監査ポリシー","[""mainmenu"",""AuditPolicy"",""Setup""]","","","監査ポリシー"
+"監査ワークベンチ","設定","","","ケースのグループ化基準","[""mainmenu"",""AuditPolicy"",""Setup""]","","","ケースのグループ化基準"
+"監査ワークベンチ","設定","","","ポリシー ルール タイプ","[""mainmenu"",""AuditPolicy"",""Setup""]","","","ポリシー ルール タイプ"
